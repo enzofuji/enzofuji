@@ -2,15 +2,17 @@
 
 <!--
 **enzofuji/enzofuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu me chamo Enzo Juniti Fujimoto! 👋
+Pode me chamar de Enzo Fuji. Ou, melhor, de Fuji.
 
-Here are some ideas to get you started:
+💻 Student at @unicamp 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🏡 São Paulo 
+
+Find me around the web 🌎
+📺 https://www.youtube.com/channel/UCHbWMt6KrLUwCexeiAFjUBg
+🐦 https://twitter.com/davidsonfellipe
+💼 https://www.linkedin.com/in/enzo-juniti-fujimoto-82bb2a182/
+
+
 -->
