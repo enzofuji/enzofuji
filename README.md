@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Olá, eu me chamo Enzo Juniti Fujimoto! 👋
-Pode me chamar de Enzo Fuji. Ou, melhor, de Fuji.
+<br> Pode me chamar de Enzo Fuji. Ou, melhor, de Fuji.
 
 💻 Student at @unicamp 
 
